@@ -24,23 +24,85 @@
     </source>
     <source>
         <title>Classroom of the elite</title>
-        <description>A really cool anime</description>
+        <description>A really cool anime based on the most advanced highschool in Japan everyone there is a genius</description>
         <year>2017</year>
-        <author>////</author>
+        <author>Shōgo Kinugasa</author>
         <characters>
             <character>
-                <name>Ayanokouji Kiyokata</name>
-                <description>A </description>
+                <name>Kiyotaka Ayanokōji</name>
+                <description>The best MC on psychological anime</description>
             </character>
             <character>
-                <name>Asuka Kangley</name>
+                <name>Suzune Horikita</name>
                 <description>A tsundere girl</description>
             </character>
             <character>
-                <name>Rei Ayanami</name>
-                <description>A blue-haired girl</description>
+                <name>Honami Ichinose</name>
+                <description>The B-class leader</description>
             </character>
         </characters>
     </source>
+    <source>
+        <title>To aru majutsu no index</title>
+        <description>A story splited into two different realities: The magic and the science</description>
+        <year>2004</year>
+        <author>Kazuma Kamachi</author>
+        <characters>
+            <character>
+                <name>Kamijou Touma</name>
+                <description>A unlucky guy that have a certain misterious power</description>
+            </character>
+            <character>
+                <name>Misaka Mikoto</name>
+                <description>The strongest electromaster in Academy city</description>
+            </character>
+            <character>
+                <name>Accelerator</name>
+                <description>The strongest Level 5 in Academy City, he can control vectors</description>
+            </character>
+        </characters>
+    </source>
+    <source>
+        <title>Code Geass</title>
+        <description>What would happen if UK invaded Japan with robots?</description>
+        <year>2006</year>
+        <author>Ichirō Ōkouchi</author>
+        <characters>
+            <character>
+                <name>Lelouch Lamperouge</name>
+                <description>AK Zero, The MC a really good strategist</description>
+            </character>
+            <character>
+                <name>Suzaku Kururugi</name>
+                <description>The childhood Lelouch friend and current enemy</description>
+            </character>
+            <character>
+                <name>C.C.</name>
+                <description>A misterious girl with a OP power</description>
+            </character>
+        </characters>
+    </source>
+    <source>
+        <title>Bleach</title>
+        <description>Ichigo has the ability of see ghosts and one day he meets a shinigami</description>
+        <year>2004</year>
+        <author>Tite Kubo</author>
+        <characters>
+            <character>
+                <name>Ichigo Kurosaki</name>
+                <description>The MC how OP do you want the MC? Yes</description>
+            </character>
+            <character>
+                <name>Rukia Kuchiki</name>
+                <description>A shinigami fron the 13th division</description>
+            </character>
+            <character>
+                <name>Aizen Sosuke</name>
+                <description>The Best Villian</description>
+            </character>
+        </characters>
+    </source>
+    
+
 
 </entretaniment_sources> 
